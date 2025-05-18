@@ -71,15 +71,3 @@ A Flask-based web application that predicts diseases based on selected symptoms 
 reach out via email above.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 📸 Screenshots
-
-![image](https://github.com/user-attachments/assets/55164d5e-7c3c-4048-93de-69c3d8620d23)
-![image](https://github.com/user-attachments/assets/3626da54-2e79-4b45-8694-9fccef169d7a)
-![image](https://github.com/user-attachments/assets/c7db3a3d-9b65-458f-a012-7315c9b33c50)
