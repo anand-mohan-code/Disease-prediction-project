@@ -71,3 +71,9 @@ A Flask-based web application that predicts diseases based on selected symptoms 
 reach out via email above.
 
 ---
+
+## 📸 Screenshots
+
+![Screenshot (56)](https://github.com/user-attachments/assets/92e7ad21-9504-4320-ad90-5a0cc92a6c3a)
+![Screenshot (57)](https://github.com/user-attachments/assets/42cf2b6c-1cb0-4aed-8421-88e493bbe419)
+![Screenshot (59)](https://github.com/user-attachments/assets/84d5bf51-4de3-4000-95df-596e50c2afea)
