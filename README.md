@@ -19,7 +19,7 @@ A Flask-based web application that predicts diseases based on selected symptoms 
 1. **Clone the repo**:
 
    ```bash
-   https://github.com/anand-mohan-code/Disease-prediction-project)
+   https://github.com/anand-mohan-code/Disease-prediction-project
    ```
 
 2. **Create and activate virtual environment**:
@@ -44,7 +44,7 @@ A Flask-based web application that predicts diseases based on selected symptoms 
 5. **Access it** at:
 
    ```
-   
+   http://127.0.0.1:5000/
    ```
 
 ---
